@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainAPP", "MainAPP\MainAPP.csproj", "{1D091BC8-A6F2-46D5-A928-82178443A511}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BidderClient", "BidderClient\BidderClient.csproj", "{5EF01DFD-2835-49AF-998C-368BB37447B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D091BC8-A6F2-46D5-A928-82178443A511}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D091BC8-A6F2-46D5-A928-82178443A511}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D091BC8-A6F2-46D5-A928-82178443A511}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D091BC8-A6F2-46D5-A928-82178443A511}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EF01DFD-2835-49AF-998C-368BB37447B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EF01DFD-2835-49AF-998C-368BB37447B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EF01DFD-2835-49AF-998C-368BB37447B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EF01DFD-2835-49AF-998C-368BB37447B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C6DC77F-6334-4388-8000-F5724F6CE0C5}
+	EndGlobalSection
+EndGlobal
